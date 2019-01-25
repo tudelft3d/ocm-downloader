@@ -1,6 +1,6 @@
 # opencitymodel downloader
 
-This is a script to download datasets of [opencitymode](https://github.com/opencitymodel/opencitymodel) stored in its AWS S3 bucket.
+This is a script to download datasets of [opencitymodel](https://github.com/opencitymodel/opencitymodel) stored in its AWS S3 bucket.
 
 ### Requirements
 Requires Python3 and the boto3 library (``pip install boto3``).
